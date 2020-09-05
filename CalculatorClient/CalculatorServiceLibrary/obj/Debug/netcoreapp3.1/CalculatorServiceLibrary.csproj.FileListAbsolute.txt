@@ -1,0 +1,8 @@
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\bin\Debug\netcoreapp3.1\CalculatorServiceLibrary.deps.json
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\bin\Debug\netcoreapp3.1\CalculatorServiceLibrary.dll
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\obj\Debug\netcoreapp3.1\CalculatorServiceLibrary.csprojAssemblyReference.cache
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\obj\Debug\netcoreapp3.1\CalculatorServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\obj\Debug\netcoreapp3.1\CalculatorServiceLibrary.AssemblyInfo.cs
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\bin\Debug\netcoreapp3.1\CalculatorServiceLibrary.pdb
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\obj\Debug\netcoreapp3.1\CalculatorServiceLibrary.dll
+C:\Users\padmp\source\repos\Demo\CalculatorClient\CalculatorServiceLibrary\obj\Debug\netcoreapp3.1\CalculatorServiceLibrary.pdb

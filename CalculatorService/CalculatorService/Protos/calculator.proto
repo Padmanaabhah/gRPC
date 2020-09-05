@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "CalculatorService";
+
+package Calculate;
+ 
+service Calculator { 
+  rpc Add (InputData) returns (Result);
+}
+ 
+message InputData {
+  int32 first_number = 1;
+  int32 second_number = 2;
+}
+ 
+message Result {
+  string resultmessage = 1;
+}
